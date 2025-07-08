@@ -1,7 +1,6 @@
 
 import { useState } from "react";
-import loaderImg from "./assets/loader.svg";
-
+import loaderImg from "../assets/loader.svg";
 
 export const Table = ({
   columns = [],
